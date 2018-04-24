@@ -78,4 +78,12 @@
 
 폰트를 D2Coding로 설정했을 경우 봐줄만한 결과가 나옴
 
+## Powerline 문자
+
+* Powerline 문자를 이용하는 [tmux 설정파일](https://github.com/Snack-X/setting/blob/master/tmux/.tmux.conf)을 이용해 테스트
+
+![Powerline Characters](images/06_powerline.png)
+
+글자 너비를 제대로 인식 못하는지 제대로 출력되지 않음
+
 ## 미니멀 & 포터블
